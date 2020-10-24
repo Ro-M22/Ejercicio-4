@@ -67,7 +67,7 @@ def bisiesto(a):
     else:
         return False
 
-def valida (d, mes, a, h, m, s):
+"""def valida (d, mes, a, h, m, s):
     if (a in range (3000)):
         if (mes in range(13)):
             if (mes==11 or mes==4 or mes==6 or mes==9):
@@ -143,7 +143,7 @@ def valida (d, mes, a, h, m, s):
                                 return False
                         else:
                             print("Los valores válidos para dias en el mes ", mes, " son de 1..28")
-                            return False
+                            return False """
 
 
 
